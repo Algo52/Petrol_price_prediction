@@ -94,13 +94,13 @@ To check running container in docker
 docker ps
 ```
 
-Tos stop docker conatiner
+To stop docker conatiner
 ```
 docker stop <container_id>
 ```
 we use yaml file to triger the deplyoment 
 ci/cd pipeline has been established
-
+````
 
 
 ```
