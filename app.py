@@ -8,7 +8,7 @@ app=Flask(__name__)
 
 @app.route("/",methods=["GET","POST"])
 def index():
-    return "starting mahine learning PROJECTING"
+    return "starting mahine learning PROJECTING and completed ci/cd pipeline"
 
 
 
